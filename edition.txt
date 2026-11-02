@@ -1,2 +1,3 @@
-This is the first edition.
+This is the second edition.
+Updated in the feature branch.
 Practicing Git branching and merging.
